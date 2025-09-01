@@ -2,6 +2,7 @@ import { NextResponse } from "next/server";
 import {prisma} from "../../../lib/prisma"; // make sure prisma.ts is in /lib
 import fs from "fs";
 import path from "path";
+export const dynamic = "force-dynamic"; // Important for Render/Vercel deploys
 
 export async function POST(req: Request) {
   try {

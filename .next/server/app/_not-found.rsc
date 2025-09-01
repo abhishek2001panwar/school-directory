@@ -1,5 +1,5 @@
 1:HL["/_next/static/css/f3f039417b26ff8e.css","style",{"crossOrigin":""}]
-0:["Oa5vth-cLP9I7Zz342U2s",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f3f039417b26ff8e.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
+0:["ZSzLvgHa4761gSBz3WNqo",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f3f039417b26ff8e.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
 4:I[6954,[],""]
 5:I[7264,[],""]
 7:{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"}
