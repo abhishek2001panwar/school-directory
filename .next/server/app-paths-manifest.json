@@ -1,7 +1,5 @@
 {
-  "/_not-found": "app/_not-found.js",
-  "/api/schools/route": "app/api/schools/route.js",
+  "/not-found": "app/not-found.js",
   "/addSchool/page": "app/addSchool/page.js",
-  "/showSchools/page": "app/showSchools/page.js",
-  "/page": "app/page.js"
+  "/api/schools/route": "app/api/schools/route.js"
 }
